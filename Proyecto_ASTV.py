@@ -1,7 +1,7 @@
 """
-Alumno: Torres Villegas Antonio Salvador 
-Proyecto C/C++ programming
-Profesor: Manuel Alejandro Solis Arrazola
+Torres Villegas Antonio Salvador 
+Mapeo en entornos pseudo aleatorios 
+07/08/2023
 """
 import numpy as np
 import time
